@@ -15,18 +15,5 @@ namespace pert3 {
         public void belok() {
             Console.WriteLine("Motor bisa belok kekanan & kekiri");
         }
-
-        public void mulai() {
-            Console.WriteLine("\n==================================\n");
-            Console.WriteLine("Motor merk " + motor.merk);
-            Console.WriteLine("Motor diproduksi tahun " + motor.thnProduksi);
-            Console.WriteLine("Warna motor " + motor.warnaKendaraan);
-            Console.WriteLine("Tipe motor " + motor.tipe);
-            Console.WriteLine("Motor memiliki roda " + motor.jumlah_roda);
-
-            motor.maju();
-            motor.berhenti();
-            motor.belok();
-        }
     }
 }

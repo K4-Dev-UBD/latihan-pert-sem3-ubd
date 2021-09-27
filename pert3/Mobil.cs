@@ -25,20 +25,5 @@ namespace pert3 {
         public override void berhenti() {
             Console.WriteLine("Mobil berhenti");
         }
-
-        public void mulai() {
-            Console.WriteLine("Mobil Merk " + mobil.merk);
-            Console.WriteLine("Mobil diproduksi tahun " + mobil.thnProduksi);
-            Console.WriteLine("Warna mobil " + mobil.warnaKendaraan);
-            Console.WriteLine("Tipe mobil " + mobil.tipe);
-            Console.WriteLine("Mobil memiliki roda " + mobil.jumlah_roda);
-            Console.WriteLine("Mobil memiliki kursi sebanyak " + mobil.kursi);
-            Console.WriteLine("Mobil memiliki pintu sebanyak " + mobil.pintu);
-
-            mobil.maju();
-            mobil.mundur();
-            mobil.belok();
-            mobil.berhenti();
-        }
     }
 }

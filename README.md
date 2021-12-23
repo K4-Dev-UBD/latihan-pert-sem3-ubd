@@ -1,4 +1,4 @@
-# SHARED CODE UNTUK LATIHAN PERTEMUAN PEMROGRAMAN C# SEMESTER 3 DI UBD
+# SHARED CODE UNTUK LATIHAN PERTEMUAN PEMROGRAMAN C# SEMESTER 3 2021 DI UBD
 
 **List Pertemuan**
 * [Pertemuan 3](https://github.com/K4-Dev-UBD/latihan-pert-sem3-ubd/tree/pertemuan-3)
